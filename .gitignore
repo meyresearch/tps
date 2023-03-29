@@ -1,2 +1,4 @@
 *.ipynb_checkpoints
 molearn/*
+init_paths/CLN_md/*
+
