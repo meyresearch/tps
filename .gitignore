@@ -1,3 +1,13 @@
 *.ipynb_checkpoints
-init_paths/CLN_md/*
 *.nc
+*.gro
+*.log
+*.xtc
+*.edr
+*.out
+*.tpr
+*.mdp
+*.trr
+*.cpt
+*.top
+*.itp
